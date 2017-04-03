@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>32</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gothic/</ImageTemplate>
+            <ImageTemplateName>Gothic</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>gothic</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/att.png</url>
+                <title>att</title>
+                <filesize>32734</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicionprimersustitucion.jpg</url>
+                <title>definicionprimersustitucion</title>
+                <filesize>110696</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicionprimersustitucion1.jpg</url>
+                <title>definicionprimersustitucion1</title>
+                <filesize>33128</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicionsegundasustitucion.jpg</url>
+                <title>definicionsegundasustitucion</title>
+                <filesize>45427</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/definicionsegundasustitucion2.jpg</url>
+                <title>definicionsegundasustitucion2</title>
+                <filesize>313630</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/historiacolapsable1.jpg</url>
+                <title>historiacolapsable1</title>
+                <filesize>36264</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/historiacolapsable2.jpg</url>
+                <title>historiacolapsable2</title>
+                <filesize>78821</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/historiacolapsable3.jpg</url>
+                <title>historiacolapsable3</title>
+                <filesize>13029</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/huawei.jpg</url>
+                <title>huawei</title>
+                <filesize>74176</filesize>
+            </Image>
+            <Image>
+                <url>J:/PROGRAMACION-4TO SEMESTRE/DAM/SEGUNDO PARCIAL/aplicaciones/app2/imagenes/intel.jpg</url>
+                <title>intel</title>
+                <filesize>41296</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
